@@ -2,7 +2,7 @@
 OldSchool is a messeger that has ncurses UI
 
 ## Screenshot
-![App Screenshot](https://raw.githubusercontent.com/Sebatkar/OldSchool/master/images/oldschool.png)
+![App Screenshot](https://raw.githubusercontent.com/Sebatkar/MertcanBilek/master/images/oldschool.png)
 
 ## Requirements
 * Python3
